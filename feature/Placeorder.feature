@@ -11,4 +11,4 @@ Then Read the order number and sent <message> and logout
 
 Examples: 
 |username|password|Firstname|Address|clientrefernce|docpath|message|
-|pippintitle_demotest@mailinator.com|DemoTest#567#|Rakshitha|3485 Wineville |Rakshitha_03_09_1996|C:\\Users\\Rakshitha\\Desktop\\p.pdf|got order|
+|pippintitle_demotest@mailinator.com|DemoTest#567#|Rakshitha|3485 Wineville |Rakshitha_03_09_1996|./PDF/p.pdf|got order|
